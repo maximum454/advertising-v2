@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 204 89">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        font-family: HelveticaNeue-Bold, Helvetica Neue;
+        font-weight: 700;
+        letter-spacing: 0.01em;
+      }
+
+      .cls-1 {
+        font-size: 29px;
+      }
+
+      .cls-2 {
+        font-size: 18px;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        stroke-linecap: square;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_13" data-name="Group 13" transform="translate(-32 -1412)">
+    <text id="_264" data-name="264" class="cls-1" transform="translate(113 1447)"><tspan x="0" y="0">264</tspan></text>
+    <text id="Собственные_конструкции" data-name="Собственные
+конструкции" class="cls-2" transform="translate(113 1476)"><tspan x="0" y="0">Собственные</tspan><tspan x="0" y="21">конструкции</tspan></text>
+    <g id="Group_12" data-name="Group 12" transform="translate(-991 -321)">
+      <g id="Rectangle_8" data-name="Rectangle 8" class="cls-3" transform="translate(1023 1744)">
+        <rect class="cls-5" width="66" height="39"/>
+        <rect class="cls-6" x="1" y="1" width="64" height="37"/>
+      </g>
+      <g id="Rectangle_22" data-name="Rectangle 22" class="cls-3" transform="translate(1050 1733)">
+        <path class="cls-5" d="M5,0H7a5,5,0,0,1,5,5V7a0,0,0,0,1,0,0H0A0,0,0,0,1,0,7V5A5,5,0,0,1,5,0Z"/>
+        <path class="cls-6" d="M5,1H7a4,4,0,0,1,4,4V5a1,1,0,0,1-1,1H2A1,1,0,0,1,1,5V5A4,4,0,0,1,5,1Z"/>
+      </g>
+      <g id="Rectangle_10" data-name="Rectangle 10" class="cls-3" transform="translate(1050 1781)">
+        <rect class="cls-5" width="12" height="38"/>
+        <rect class="cls-6" x="1" y="1" width="10" height="36"/>
+      </g>
+      <line id="Line_2" data-name="Line 2" class="cls-4" x2="63" transform="translate(1024.5 1818)"/>
+      <line id="Line_3" data-name="Line 3" class="cls-3" y2="7" transform="translate(1056 1738)"/>
+    </g>
+    <path id="Path_43" data-name="Path 43" class="cls-3" d="M-540.807,1767.728l7.807,7.807,10.293-12.372" transform="translate(599 -327)"/>
+  </g>
+</svg>

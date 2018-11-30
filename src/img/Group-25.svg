@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 219 71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 18px;
+        font-family: HelveticaNeue-Bold, Helvetica Neue;
+        font-weight: 700;
+        letter-spacing: 0.01em;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_25" data-name="Group 25" transform="translate(-932 -2566)">
+    <text id="Собственное_производство_видеоконтента" data-name="Собственное
+производство
+видеоконтента" class="cls-1" transform="translate(1013 2591)"><tspan x="0" y="0">Собственное</tspan><tspan x="0" y="21">производство</tspan><tspan x="0" y="42">видеоконтента</tspan></text>
+    <g id="Group_17" data-name="Group 17" transform="translate(0 24)">
+      <g id="Rectangle_29" data-name="Rectangle 29" class="cls-2" transform="translate(932 2542)">
+        <rect class="cls-3" width="66" height="39"/>
+        <rect class="cls-4" x="1" y="1" width="64" height="37"/>
+      </g>
+      <path id="Path_30" data-name="Path 30" class="cls-2" d="M-540.807,1767.728l7.807,7.807,10.293-12.372" transform="translate(1499 792)"/>
+      <g id="Rectangle_30" data-name="Rectangle 30" class="cls-2" transform="translate(938 2591)">
+        <rect class="cls-3" width="7" height="7"/>
+        <rect class="cls-4" x="1" y="1" width="5" height="5"/>
+      </g>
+      <g id="Rectangle_31" data-name="Rectangle 31" class="cls-2" transform="translate(950 2601)">
+        <rect class="cls-3" width="7" height="7"/>
+        <rect class="cls-4" x="1" y="1" width="5" height="5"/>
+      </g>
+      <g id="Rectangle_32" data-name="Rectangle 32" class="cls-2" transform="translate(962 2598)">
+        <rect class="cls-3" width="7" height="7"/>
+        <rect class="cls-4" x="1" y="1" width="5" height="5"/>
+      </g>
+      <g id="Rectangle_33" data-name="Rectangle 33" class="cls-2" transform="translate(974 2592)">
+        <rect class="cls-3" width="7" height="7"/>
+        <rect class="cls-4" x="1" y="1" width="5" height="5"/>
+      </g>
+      <g id="Rectangle_34" data-name="Rectangle 34" class="cls-2" transform="translate(986 2600)">
+        <rect class="cls-3" width="7" height="7"/>
+        <rect class="cls-4" x="1" y="1" width="5" height="5"/>
+      </g>
+      <line id="Line_6" data-name="Line 6" class="cls-2" y1="6" transform="translate(941.5 2586.5)"/>
+      <line id="Line_8" data-name="Line 8" class="cls-2" y1="16" transform="translate(953.5 2586.5)"/>
+      <line id="Line_10" data-name="Line 10" class="cls-2" y1="13" transform="translate(965.5 2586.5)"/>
+      <line id="Line_12" data-name="Line 12" class="cls-2" y1="7" transform="translate(977.5 2586.5)"/>
+      <line id="Line_14" data-name="Line 14" class="cls-2" y1="15" transform="translate(989.5 2586.5)"/>
+      <line id="Line_7" data-name="Line 7" class="cls-2" y1="14.5" transform="translate(941.5 2597.5)"/>
+      <line id="Line_9" data-name="Line 9" class="cls-2" y1="5.5" transform="translate(953.5 2606.5)"/>
+      <line id="Line_11" data-name="Line 11" class="cls-2" y1="8.5" transform="translate(965.5 2603.5)"/>
+      <line id="Line_13" data-name="Line 13" class="cls-2" y1="14.5" transform="translate(977.5 2597.5)"/>
+      <line id="Line_15" data-name="Line 15" class="cls-2" y1="6.5" transform="translate(989.5 2605.5)"/>
+    </g>
+  </g>
+</svg>
