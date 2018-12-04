@@ -1,0 +1,107 @@
+.nav{
+	position: fixed;
+	background-color: #3390A2;
+	width: 100%;
+	height: 100vh;
+	padding: 26px 0;
+	z-index: 50;
+	top: 0;
+	left: 0;
+	display: none;
+	&__btn{
+		background-color: #39383A;
+		width: 40px;
+		height: 40px;
+		border-radius: 50%;
+		border: none;
+		position: fixed;
+		top: 17px;
+		right: 17px;
+		z-index: 100;
+		outline: none;
+		transition: .3s;
+		span{
+			position: absolute;
+			top: 18px;
+			left: 10px;
+			background-color: #fff;
+			width: 20px;
+			height: 4px;
+		}
+		&:before{
+			content: '';
+			position: absolute;
+			top: 10px;
+			left: 10px;
+			background-color: #fff;
+			width: 20px;
+			height: 4px;
+		}
+		&:after{
+			content: '';
+			position: absolute;
+			bottom: 10px;
+			left: 10px;
+			background-color: #fff;
+			width: 20px;
+			height: 4px;
+		}
+		&.active{
+			background-color: #fff;
+			span{
+				display: none;
+			}
+			&:before{
+				background-color: #3390A2;
+				top: 19px;
+				transform: rotate(45deg);
+
+			}
+			&:after{
+				background-color: #3390A2;
+				bottom: 17px;
+				transform: rotate(-45deg);
+			}
+		}
+	}
+	&__inner{
+		position: relative;
+		height: 100%;
+		z-index: 10;
+		padding: 0 32px;
+	}
+	&__logo{
+		background-image: url("../img/MA-Small-Logo-white.svg");
+		background-repeat: no-repeat;
+		max-width: 180px;
+		width: 100%;
+		height: 28px;
+		margin-bottom: 30px;
+	}
+	&__list{
+		margin: 115px 0;
+		padding: 0;
+		list-style: none;
+		text-align: center;
+		li{
+			padding: 6px 0;
+		}
+		a{
+			color: #fff;
+			font-size: 30px;
+			font-weight: bold;
+			text-decoration: none;
+		}
+	}
+	.btn {
+		width: 100%;
+		margin-bottom: 11px;
+		font-size: 18px;
+		font-weight: bold;
+		border-radius: 0;
+	}
+	.btn-outline-dark {
+		color: #fff;
+		border-color: #fff;
+	}
+}

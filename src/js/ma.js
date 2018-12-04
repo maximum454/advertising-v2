@@ -6,4 +6,9 @@ $(function () {
             top = $(id).offset().top;
         $('body,html').animate({scrollTop: top}, 300);
     });
+
+    $('.js-nav-btn').on("click", function () {
+        $(this).toggleClass('active');
+        $('.nav').fadeToggle();
+    });
 });
