@@ -6,6 +6,19 @@
 		height: 100vh;
 		padding: 20px 0 70px;
 		color: #39383A;
+		&:before{
+			display: block;
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			background-image: url("../img/wave.png");
+			background-repeat: no-repeat;
+			background-position: center top;
+			background-size: cover;
+			width: 100%;
+			height: 390px;
+		}
 	}
 	&__inner{
 		position: relative;
