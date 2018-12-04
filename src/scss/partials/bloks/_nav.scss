@@ -99,6 +99,10 @@
 		font-size: 18px;
 		font-weight: bold;
 		border-radius: 0;
+		outline: none;
+		&:focus{
+			box-shadow: 0 0 5px #fff;
+		}
 	}
 	.btn-outline-dark {
 		color: #fff;

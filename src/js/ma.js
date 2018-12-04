@@ -1,4 +1,5 @@
 //= partials/jquery.min.js
+//= partials/jquery.mask.min.js
 $(function () {
     $(".js-anhor").on("click", function (event) {
         event.preventDefault();
@@ -10,5 +11,14 @@ $(function () {
     $('.js-nav-btn').on("click", function () {
         $(this).toggleClass('active');
         $('.nav').fadeToggle();
+    });
+
+    $('#phone').mask('+0 000 000-00-00');
+
+    $('.js-feedback').on("click", function () {
+        $('.feedback').fadeIn();
+    });
+    $('.js-close').on("click", function () {
+        $('.feedback').fadeOut();
     });
 });

@@ -40,7 +40,7 @@
             </ul>
     
             <button type="button" class="btn btn-outline-dark">Скачать презентацию</button>
-            <button type="button" class="btn btn-outline-dark">Оставить заявку</button>
+            <button type="button" class="btn btn-outline-dark js-feedback">Оставить заявку</button>
         </div>
     </nav>
     <header class="header">
@@ -49,10 +49,49 @@
                 <img src="img/MA-Big-Logo.svg" alt="Musan Advertising">
             </div>
             <button type="button" class="btn btn-outline-dark">Скачать презентацию</button>
-            <button type="button" class="btn btn-outline-dark">Оставить заявку</button>
+            <button type="button" class="btn btn-outline-dark js-feedback">Оставить заявку</button>
         </div>
         <a href="#ma" class="header__arrow js-anhor"></a>
     </header>
+    <div class="feedback">
+    	<button class="feedback__close js-close"></button>
+    	<div class="feedback__inner">
+    		<div class="feedback__logo"></div>
+    		<form>
+    			<div class="feedback__title">ЗАЯВКА</div>
+    			<div class="feedback__group">
+    				<label class="feedback__label" for="name">Ваше имя</label>
+    				<input class="feedback__input" type="text" id="name" value="">
+    			</div>
+    			<div class="feedback__group">
+    				<label class="feedback__label" for="email">Электронная почта</label>
+    				<input type="text" class="feedback__input" id="email" value="">
+    			</div>
+    			<div class="feedback__group">
+    				<label class="feedback__label" for="phone">Телефон</label>
+    				<input type="text" class="feedback__input" id="phone" placeholder="+7 *** ***-**-**">
+    			</div>
+    			<div class="feedback__group">
+    				<label class="feedback__label" for="select">Интересующий вас ресурс</label>
+    				<select class="feedback__select" name="" id="select">
+    					<option value="Gakku TV">Gakku TV</option>
+    					<option value="Gakku FM">Gakku FM</option>
+    					<option value="Love Radio">Love Radio</option>
+    					<option value="Dacha FM">Dacha FM</option>
+    					<option value="Той Думан">Той Думан</option>
+    					<option value="Капитал">Капитал</option>
+    				</select>
+    			</div>
+    
+    			<button type="submit" class="btn btn-outline-dark">Отправить заявку</button>
+    			<hr>
+    			<div class="feedback__bottom">
+    			<div>Или перезвоните нам</div>
+    			<a class="feedback__link" href="tel:+77272249111">+7 727 224-91-11</a>
+    			</div>
+    		</form>
+    	</div>
+    </div>
     <main>
         <div class="services" id="ma">
             <div class="services__item" id="id-1">
